@@ -2,7 +2,7 @@
   "name": "module-crm-advertising-filament",
   "display_name": "CRM Advertising Filament",
   "description": "Filament presentation for advertising",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\CRM\\AdvertisingFilament\\AdvertisingFilamentServiceProvider",
   "requires": {
